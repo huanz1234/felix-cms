@@ -1,0 +1,11 @@
+{
+    "files": [], // 编译时包含的文件
+    "references": [
+        {
+            "path": "./tsconfig.node.json" // 引用node的tsconfig.json文件
+        },
+        {
+            "path": "./tsconfig.app.json" // 引用app的tsconfig.json文件
+        }
+    ]
+}
